@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gherkin E2E Feature"
+  short_description: "Generate Gherkin and Java Cucumber steps"
+  default_prompt: "Use $gherkin-e2e-feature to generate a Gherkin feature file, upload it to Forge AI, and create Java Cucumber step definitions from the contract."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implementation Plan First"
+  short_description: "Write implementation plans before coding"
+  default_prompt: "Use $implementation-plan-first to grill me, write a Markdown implementation plan file, and wait for approval before coding."
