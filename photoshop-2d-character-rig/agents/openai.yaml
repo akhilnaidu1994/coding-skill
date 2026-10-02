@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photoshop 2D Character Rig"
+  short_description: "Create overlap-safe 2D cutout characters for Photoshop and Duik"
+  default_prompt: "Use $photoshop-2d-character-rig to turn my character reference or description into a consistent three-quarter Photoshop-ready cutout puppet with separated parts, hidden joint overlap, layer naming, pivot guidance, and rig QA."
